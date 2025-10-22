@@ -32,7 +32,6 @@
 - [Future Enhancements](#future-enhancements)
 - [Contributing](#contributing)
 - [Contact](#contact)
-- [License](#license)
 
 ---
 
@@ -458,4 +457,5 @@ Contributions are welcome! If you'd like to improve this project:
 Made with ❤️ by Vaibhav Mishra
 
 </div>
+
 
