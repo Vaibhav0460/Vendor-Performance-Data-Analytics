@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![Vendor Performance Dashboard](image.jpg)
+![Vendor Performance Dashboard](Dashboard.jpg)
 
 **A complete end-to-end data analytics solution for vendor performance analysis and optimization**
 
@@ -458,3 +458,4 @@ Contributions are welcome! If you'd like to improve this project:
 Made with ❤️ by Vaibhav Mishra
 
 </div>
+
